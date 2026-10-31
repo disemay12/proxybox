@@ -15,6 +15,9 @@
 /vendor/
 /RakSAMP Lite/
 
+# tooling output
+graphify-out/
+
 # editor / OS
 .vs/
 .idea/
