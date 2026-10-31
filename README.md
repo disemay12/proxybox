@@ -4,7 +4,7 @@
 Можно запустить сколько угодно копий одной программы, каждая со своим прокси.
 
 Готовые бинарники — в [Releases](https://github.com/disemay12/proxybox/releases/latest):
-`proxybox-v1.0.0-win64.zip` (распаковать и запустить `proxybox.exe`).
+`proxybox-v1.0.0-win.zip` (распаковать и запустить `proxybox.exe`).
 
 ```
 dist/
