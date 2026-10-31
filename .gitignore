@@ -1,0 +1,23 @@
+# build output
+/dist/
+/proxybox/build/
+/proxybox-rs/target/
+**/*.log
+
+# local state and generated data
+/proxybox.json
+/proxybox.json.bak
+/live-proxies.tsv
+/live-socks5.tsv
+/dist_ust_test.txt
+
+# local toolchains and third-party binaries not published here
+/vendor/
+/RakSAMP Lite/
+
+# editor / OS
+.vs/
+.idea/
+*.user
+Thumbs.db
+desktop.ini

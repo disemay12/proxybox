@@ -1,0 +1,10 @@
+* text=auto eol=lf
+*.rs text
+*.cpp text
+*.h text
+*.ps1 text
+*.md text
+*.lua text
+*.exe binary
+*.dll binary
+*.png binary
